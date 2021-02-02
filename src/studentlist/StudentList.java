@@ -24,7 +24,7 @@ public class StudentList {
         for(int i = 0; i < students.length; i++){
             System.out.println(students[i]);
         }
-        System.out.println("Goodbye");
+        System.out.println("See you again");
     }
     
 }
